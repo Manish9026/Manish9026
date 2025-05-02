@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manish9026/Manish9026/main/A_GitHub_profile_header_banner_showcases_Manish_Ma.png" alt="Manish Maurya Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Manish9026/Manish9026/main/Poster_image.png" alt="Manish Maurya Banner" width="100%" />
 </p>
 
 # 🚀 Manish Maurya | BCA’25  
