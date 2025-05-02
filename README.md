@@ -1,77 +1,83 @@
-<!-- Modern & Responsive GitHub Profile README for Manish Maurya -->
 
-<h1 align="center">Hi, I'm Manish Maurya! 👋</h1>
+<h1 align="center" style="font-size: 2.5rem;">
+  ðŸš€ Manish Maurya | Full Stack Developer | BCA'25
+</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> | <strong>Final Year BCA Student (2025)</strong> | <strong>Tech Explorer</strong><br/>
-  Passionate about building secure, scalable applications and diving into DevOps, Cloud, and 3D tech.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76E11&center=true&vCenter=true&width=435&lines=Passionate+about+building+modern+web+apps;Full+Stack+Dev+%7C+Tech+Explorer+%7C+Final+Year+BCA+Student;JavaScript+%7C+Python+%7C+Django+%7C+React+%7C+DevOps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Manish9026"><img src="https://img.shields.io/github/followers/Manish9026?label=Followers&style=social" /></a>
-  <a href="mailto:manishmaurya11365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/manish-maurya-6a32b8301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://selfpro.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 Final year BCA student, graduating in **2025**
-- 🌐 Full Stack Developer focused on scalable & secure web apps
-- ⚙️ Exploring DevOps, Docker, Redis, and Kubernetes
-- ⚛️ Love working on React, Node.js, and **3D experiences with Three.js**
-- 📈 Always upskilling with new tools & building awesome projects
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-#### Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF6C00?style=flat&logo=framer&logoColor=white)
-
-#### Backend & Database  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-#### DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish9026&theme=radical&show_icons=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9026&layout=compact&theme=radical" height="180" />
+  <img src="https://komarev.com/ghpvc/?username=Manish9026&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Final%20Year-BCA%202025-orange?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tech-Explorer-blue?style=flat-square" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### ðŸš€ About Me
 
-- **Portfolio**: [selfpro.vercel.app](https://selfpro.vercel.app)  
-- **LinkedIn**: [linkedin.com/in/manish-maurya-6a32b8301](https://www.linkedin.com/in/manish-maurya-6a32b8301)  
-- **Email**: [manishmaurya11365@gmail.com](mailto:manishmaurya11365@gmail.com)
+- Full Stack Developer passionate about scalable & secure web apps  
+- Final-year BCA student (2025), focused on modern tech & real-world projects  
+- Exploring **DevOps, Docker, Redis, and Kubernetes**  
+- Love building with **React, Node.js, Django, and Three.js**
 
 ---
 
-*Thanks for visiting my GitHub! Feel free to explore my work or reach out for collaboration.*
+### ðŸ›  My Tech Stack
+
+#### ðŸ‘¨â€ðŸ’» Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+
+#### ðŸŒ Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat-square&logo=redux)
+
+#### ðŸ”§ Backend / Database
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+
+#### â˜ï¸ DevOps / Cloud
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
+
+---
+
+### ðŸ“Š GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish9026&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+---
+
+### ðŸ“¬ Let's Connect
+
+- **Portfolio:** [https://selfpro.vercel.app](https://selfpro.vercel.app)  
+- **LinkedIn:** [linkedin.com/in/manish-maurya-6a32b8301](https://www.linkedin.com/in/manish-maurya-6a32b8301)  
+- **Email:** manishmaurya11365@gmail.com  
+
+---
+
+_Thanks for visiting my GitHub! Feel free to explore my projects and reach out!_
