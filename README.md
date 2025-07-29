@@ -4,13 +4,13 @@
 </p>
 
 # 🚀 Manish Maurya | BCA’25  
-**Full Stack Developer • Final Year BCA Student • Tech Explorer**  
+**Full Stack Developer •  BCA Student • Tech Explorer**  
 Building secure and scalable web applications with a passion for clean architecture and user-friendly design.
 
 ---
 
 ## 🧠 About Me
-- 🎓 Final Year BCA Student, graduating in 2025  
+- 🎓 BCA Student,recently graduating in 2025  
 - 👨‍💻 Full Stack Developer with hands-on experience in MERN & Django stacks  
 - ⚙️ Exploring DevOps, Docker, Redis, and Kubernetes  
 - 🌐 Portfolio: [selfpro.vercel.app](https://selfpro.vercel.app)  
